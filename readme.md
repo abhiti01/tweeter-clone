@@ -1,6 +1,8 @@
-COP5615 – Project 4 part 2
-Twitter Clone with websockets Submitted by – Yagya Malik, Abhiti Sachdeva
-Goal – Implement WebSocket interface to project 4 part 1 Requirements Fulfilled –
+## COP5615 – Project 4 part 2
+
+# Twitter Clone with websockets Submitted by – Yagya Malik, Abhiti Sachdeva
+##Goal – 
+Implement WebSocket interface to project 4 part 1 Requirements Fulfilled –
 • Registration
 • Sending tweets
 • Mentioning Users and Hashtags in tweets
@@ -14,10 +16,10 @@ exchange protocol, a challenge is formed by the server each time a user attempts
 • WebSocketSharp
 • FSharp.Data
 • Akka
-How to run the code –
+## How to run the code –
 • Engine – run dotnet run debug in eng_twitter directory
 • User – run dotnet run in sim_twitter directory
-Brief description of working of code –
+# Brief description of working of code –
 • Web sockets are designed to use restful API, there are different end points for every
 request (Each type of request is handled by a different actor on the server side)
 • We user websocketsharp to implement web sockets, and each request goes through the appropriate socket like so –
