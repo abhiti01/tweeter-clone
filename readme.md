@@ -1,6 +1,5 @@
-## COP5615 – Project 4 part 2
-
-# Twitter Clone with websockets Submitted by – Yagya Malik, Abhiti Sachdeva
+# COP5615 – Project 4 part 2
+## Twitter Clone with websockets Submitted by – Yagya Malik, Abhiti Sachdeva
 ## Goal – 
 Implement WebSocket interface to project 4 part 1 Requirements Fulfilled –
 • Registration
